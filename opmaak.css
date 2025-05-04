@@ -1,0 +1,79 @@
+
+#header{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 90px;
+    width: 1300px;
+}
+#menu{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 90px;
+    width: 1300px;
+    background-color: rgb(11, 29, 58);
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+#inhoud{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 655px;
+    width: 1300px;
+    background-color: rgb(47, 62, 70);
+    overflow: auto;
+}
+#footer{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+    width: 1300px;
+    background-color: rgb(11, 29, 58);
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+}
+#inleidingText{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 655px;
+    width: 1300px;
+    background-color: rgb(47, 62, 70);
+    overflow: auto;
+    color: aliceblue;
+    text-align: center;
+}
+.title{
+    font-size: 36px;
+    font-weight: bold;
+}
+.customLink{
+    color: rgb(176, 141, 87);
+}
+.knop{
+    width: 150px;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.tekst{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    width: 900px;
+}
+.afbeelding{
+    height: 400px;
+    width: 500px;;
+    padding: 15px;
+}
