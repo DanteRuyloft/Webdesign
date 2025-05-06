@@ -39,14 +39,7 @@
     text-align: center;
     padding-top: 30px;
 }
-#inleidingText{
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    height: 655px;
-    width: 1300px;
-    background-color: rgb(47, 62, 70);
-    overflow: auto;
+.inleidingText{
     color: aliceblue;
     text-align: center;
 }
